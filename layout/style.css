@@ -1,0 +1,94 @@
+.signup{
+    
+    
+     border: 5px solid black;
+   margin-top: 0%;
+   width: 40%;
+    margin-left: 25%;
+    border-radius: 15px;
+    background-color:#FEFEFE;
+    margin-bottom: 0%;
+    
+           
+}
+
+
+#form{
+     border: 5px solid grey;
+       border-radius: 15px;
+   margin-top: 5%;
+   padding-top: 2%;
+   width: 70%;
+   margin-left: 3%;
+   font-size: 150%;
+       font-weight: normal;
+      padding-left: 3%;
+      padding-bottom: 3%;
+        background-color:#E8DFDF;
+          
+}
+
+
+
+
+#check{
+      width: 5%;
+      
+      
+}
+
+
+
+.signupbutton{
+     
+    border: 2px solid black;
+    border-radius: 15px;
+     margin-left: 5%;
+      margin-bottom: 5%;
+       font-size: 20px;;
+      margin-top: 5%;
+      font-style: normal;
+      padding: 5px;
+      background-color: #8686E5;
+      color: white;
+      width: 100px;
+       margin-top: 3%;
+}
+
+
+.signupbutton:hover{
+    border: 5px solid black;
+    cursor: pointer;
+}
+
+
+.p{
+     
+     position: absolute;
+     top:1px;
+     left: 1%;
+     font-style:italic;
+      font-size: 400%;
+   font-weight: 100;
+     
+}
+
+
+
+
+.img{
+     
+     position: absolute;
+     left: 1%;
+       top:25%;
+     width: 20%;
+          
+}
+
+
+.errormsg{
+     position: absolute;
+      color: red;
+      padding: 10px;
+     
+}
